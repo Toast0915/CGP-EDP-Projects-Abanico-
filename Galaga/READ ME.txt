@@ -1,0 +1,191 @@
+=========================================================
+NEBULA STRIKE
+=========================================================
+
+Game Genre:
+Arcade Space Shooter / Galaga Inspired Game
+
+Created Using:
+Python
+Pygame
+Tkinter
+
+=========================================================
+GAME DESCRIPTION
+=========================================================
+
+Nebula Strike is a fast-paced arcade shooter inspired by
+classic Galaga-style gameplay. Players control advanced
+space fighters and battle waves of alien ships across
+multiple levels before facing a giant alien mothership.
+
+The game features smooth enemy formations, unique ship
+types, power-ups, boss battles, explosions, animated
+effects, and scalable difficulty progression.
+
+=========================================================
+GAME FEATURES
+=========================================================
+
+[✔] Classic Galaga-Inspired Gameplay
+
+[✔] Smooth Enemy Formation Entry
+Enemies fly in from:
+- Left side
+- Right side
+- Top side
+
+[✔] Enemy Formation Movement
+After entering formation:
+- Enemies move left and right together
+- Movement becomes faster on higher levels
+
+[✔] Multiple Levels
+- Levels increase in difficulty
+- Enemy fire rate increases gradually
+- Enemy movement becomes faster
+
+[✔] Boss Battle System
+Every few levels:
+- Giant alien mothership appears
+- Boss has large health bar
+- Multiple attack patterns
+- Balanced boss difficulty
+
+[✔] Boss Attack Patterns
+The boss can:
+- Fire triple shots
+- Fire spread waves
+- Fire rapid random bullets
+
+[✔] 3 Playable Ships
+
+BLUE SHIP
+- Balanced fighter
+- Medium fire rate
+- Medium damage
+
+GREEN SHIP
+- Dual rapid-fire ship
+- Fast attack speed
+- Lower damage
+- Good crowd control
+
+PURPLE SHIP
+- Heavy laser fighter
+- Slow attack speed
+- Very high damage
+- Best for boss fights
+
+[✔] Power-Up System
+
+Possible Power-Ups:
+- Rapid Fire
+- Spread Shot
+- Extra Life
+- Laser Beam
+
+[✔] Laser Beam Power-Up
+- Fires a continuous laser
+- Damages enemies instantly
+- Strong against bosses
+
+[✔] Explosion Effects
+- Enemy explosions
+- Boss explosions
+- Player hit effects
+
+[✔] Damage Indicators
+- Floating damage numbers
+- Displays damage dealt to enemies and boss
+
+[✔] Animated Background
+- Moving starfield effect
+
+[✔] Pause System
+Press:
+P = Pause / Resume
+
+[✔] Restart System
+Press:
+R = Restart after Game Over
+
+[✔] Ending Cutscene
+After defeating the final boss:
+- Mission complete screen
+- Animated ship escape
+- Back To Menu button
+
+=========================================================
+CONTROLS
+=========================================================
+
+LEFT ARROW   = Move Left
+RIGHT ARROW  = Move Right
+SPACEBAR     = Shoot
+P            = Pause / Resume
+R            = Restart
+
+=========================================================
+GAME OBJECTIVE
+=========================================================
+
+Destroy enemy fleets, survive incoming attacks, collect
+power-ups, and defeat the giant alien mothership to save
+the galaxy.
+
+=========================================================
+GAME CREATOR
+=========================================================
+
+Game Title:
+Nebula Strike
+
+Developed By:
+Aldrean Abanico
+
+Built With:
+Python + Pygame + Tkinter
+
+Inspired By:
+Classic Arcade Shooter Games
+(Galaga / Space Invaders)
+
+=========================================================
+HOW TO RUN THE GAME
+=========================================================
+
+1. Install Python
+
+2. Install Pygame using terminal:
+
+pip install pygame
+
+3. Open the project folder
+
+4. Run the game:
+
+python GalagaMain.py
+
+=========================================================
+RECOMMENDED SYSTEM
+=========================================================
+
+OS:
+Windows 10 / 11
+
+Python Version:
+Python 3.10+
+
+Resolution:
+1000 x 750
+
+=========================================================
+THANK YOU FOR PLAYING
+=========================================================
+
+Protect the galaxy.
+Defeat the Nebula Fleet.
+Become the ultimate pilot.
+
+=========================================================
